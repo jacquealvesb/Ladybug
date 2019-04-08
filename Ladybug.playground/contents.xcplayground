@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Start'/>
+        <page name='Birth'/>
+        <page name='Siblings'/>
+        <page name='MathClass'/>
+        <page name='FindBugsy'/>
+        <page name='WomenAllowed'/>
+        <page name='Navy'/>
+        <page name='MarkI'/>
+        <page name='SubroutineBook'/>
+        <page name='CompilerSugestion'/>
+        <page name='FirstLanguage'/>
+        <page name='Trophies'/>
+        <page name='EveryoneCan'/>
+    </pages>
+</playground>
