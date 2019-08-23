@@ -1,4 +1,6 @@
-![alt text](icon.png)
+<p align="center">
+  <img src="icon.png" width=70%>
+</p>
 
 # Submission to the WWDC 2019 Scholarship
 
